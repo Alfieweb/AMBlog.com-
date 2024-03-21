@@ -1,0 +1,27 @@
+.OtherSitesTitle {
+    font-family: Bubbler One;
+    color: rgb(255, 106, 6);
+    text-align: center;
+}
+
+.OtherSites {
+    font-family: Slackey;
+    color: rgb(255, 106, 6);
+    text-align: center;
+}
+
+.ScentSupplier {
+    font-family: Bubbler One;
+    font-size: 30px;
+    font-style: normal;
+}
+
+.ScentSupplierButton {
+    font-family: Bubbler One;
+    font-size: 18px;
+    border-radius: 30px;
+    height: 40px;
+    width: 150px;
+    color: rgb(255, 153, 0);
+    background-color: rgba(0, 0, 0, 0.699);
+}

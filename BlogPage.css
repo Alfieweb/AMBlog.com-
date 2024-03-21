@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(255, 255, 255);
+}
+
+.AM-BlogTitle {
+    color: rgb(255, 102, 0);
+    font-family:Bubbler One;
+    text-align:center;
+    font-size: 30px;
+}
+
+.Blog1Title {
+    font-family: Slackey;
+    font-size: 30px;
+    color: rgb(255, 102, 0);
+}
+
+.Blog1Text {
+    font-family: Bubbler One;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.OtherSitesButton {
+    border-radius: 50px;
+    color: black;
+    width: 100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 123, 0);
+    border-style:ridge;
+}
